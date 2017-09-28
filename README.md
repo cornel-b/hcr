@@ -1,1 +1,1 @@
-# hcr
+# Collection of HackeRank solutions
