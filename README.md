@@ -1,1 +1,1 @@
-# Collection of HackeRank solutions
+# Collection of HackerRank solutions
